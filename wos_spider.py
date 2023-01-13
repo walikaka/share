@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/12/30 22:40
-# @Author  : mu huduanmu19@mails.ucas.ac.cn
+# @Author  : walikaka
 # @Software: PyCharm
 import json
 import os
